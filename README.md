@@ -11,7 +11,7 @@ Automates texture baking in Blender for game-ready assets
 1. Open your Blender scene
 2. Save your `.blend` file
 3. Go to the Scripting tab
-4. Hit Windows - Toggle System Console
+4. Hit Window - Toggle System Console
 5. Copy and paste the script
 6. Run the script
 7. Find baked textures in the `/BakedTextures/` folder
