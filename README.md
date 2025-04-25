@@ -3,7 +3,7 @@ Automates texture baking in Blender for game-ready assets
 
 -  Batch process multiple objects
 -  Supports Diffuse, Normal, Roughness, AO, Metallic maps
--  Auto configure rendering settings
+-  Auto-configure rendering settings
 -  Organizes output folders for clean project management
 -  Cleans up temporary nodes after baking
 
@@ -12,6 +12,6 @@ Automates texture baking in Blender for game-ready assets
 2. Save your `.blend` file
 3. Go to the Scripting tab
 4. Hit Window - Toggle System Console
-5. Copy and paste the script
+5. Copy and paste the script, or use the open text button
 6. Run the script
 7. Find baked textures in the `/BakedTextures/` folder
